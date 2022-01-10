@@ -32,6 +32,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Below is a gif demonstrating the tipping app functionality:
+![](tipApp.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
